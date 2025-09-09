@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# ID: lostcow
+# ID: mixmilk
 # LANG: PYTHON3
 # LINK: https://usaco.org/index.php?page=viewproblem2&cpid=855
 import bisect

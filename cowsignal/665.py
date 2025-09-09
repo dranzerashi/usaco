@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# ID: lostcow
+# ID: Amplify Signal
 # LANG: PYTHON3
 # LINK: https://usaco.org/index.php?page=viewproblem2&cpid=665
 import bisect
